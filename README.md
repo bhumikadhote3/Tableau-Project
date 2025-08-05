@@ -1,4 +1,5 @@
-# Tableau-Project
+# Tableau-Project 
+**Data Visualization Project**
 Sales Analysis excel sheet as the data source to create the dashboards.
  # Tableau Project
 
